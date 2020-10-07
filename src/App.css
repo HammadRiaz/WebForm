@@ -1,0 +1,162 @@
+
+#tableHEAD{
+    width: 60%;
+    border: 3px solid black;    
+}
+#Insertion{
+    float:right ;
+}
+.flex-container{
+    display: flex; 
+    background-color: chartreuse;
+    width: 50%;
+}
+.flex-container div{
+    margin: 2px;
+    padding-right:70px;
+    padding-left: 35px;
+    font-size:20px;
+}
+.BT_B{
+    border: none;
+    
+    margin-left: 23px;
+    margin-right: 5px;
+    margin-top: 20px;
+    outline-style: hidden;
+    color: white;
+    background-color: black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    outline-style: inset;
+    align-content: center;
+}
+#Add{
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left: 1px;
+    outline-style: ridge;
+}
+.BT_B:hover{
+    background-color:slategrey;
+    cursor: pointer;
+}
+.fields{
+    margin-left: 10%;
+}
+#Age{
+    margin-left: 45px;
+}
+#Name{
+    margin-left: 30px;
+}
+.Radio:hover{
+    cursor: pointer;
+    color: slategrey;
+
+}
+.Radio{
+    margin-left: 35px;
+}
+#City{
+    margin-left: 40px;
+    width: 204px;
+}
+.InputField input{
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.InputField select{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+}
+#InputBlock{
+    padding: 20px;
+    border: 3px solid;
+    background-color: grey;
+    text-align: left;
+    padding: 50px;  
+}
+#Insertion{
+    margin-right: 200px;
+}
+#Display{
+    margin-top: 24px;
+    margin-left: 200px;
+}
+.ROWS{
+    margin-top: 50px;
+    border: thin tomato;
+}
+#BT1{
+    border: none;
+    
+    
+    outline-style: hidden;
+    color: white;
+    background-color: black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: center;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    outline-style: ridge;
+}
+#BT2{
+    border: none;
+    outline-style: hidden;
+    color: white;
+    background-color: black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: center;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    outline-style: ridge;
+}
+#BT1:hover{
+    background-color:slategrey;
+    cursor: pointer;
+}
+#BT2:hover{
+    background-color:slategrey;
+    cursor: pointer;
+}
+.HEAD{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+#TableH{
+ 
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 60%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Rollno{
+    padding:20px ;
+    background-color: grey;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#Assign{
+    padding:20px ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: grey;
+}
