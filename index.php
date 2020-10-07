@@ -1,1 +1,1 @@
-<?php include("./src/index.js") ?>
+<?php include("./src/App.js") ?>
